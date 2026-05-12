@@ -13,8 +13,8 @@ Haz clic en el desplegable para visualizar los comandos de configuración del en
 > 
 > **2. Clonación y despliegue del núcleo**
 > ```
-> git clone https://github.com/eliac-d/kirito-Bot-MD
-> cd kirito-Bot-MD
+> git clone https://github.com/eliac-d/Diablo-MD
+> cd Diablo-MD
 > ```
 > 
 > **3. Inyección de módulos y arranque**
