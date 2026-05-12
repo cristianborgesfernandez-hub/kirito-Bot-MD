@@ -1,5 +1,5 @@
 {
-  "name": "kirito-Bot-MD",
+  "name": "Diablo",
   "version": "6.0.2",
   "description": "High-performance WhatsApp Bot (Multi-Device) with Command-Map architecture and minimalist serialization.",
   "main": "index.js",
@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eliac-d/kirito-Bot-MD.git"
+    "url": "git+https://github.com/eliac-d/Diablo-MD.git"
   },
-  "author": "Powered by Deylin Elíac",
+  "author": "Powered by",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
